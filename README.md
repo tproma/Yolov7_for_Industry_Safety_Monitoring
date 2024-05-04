@@ -1,0 +1,1 @@
+# Yolov7_for_Industry_Safety_Monitoring
