@@ -7,6 +7,16 @@
 - [Kaggle Data Link](https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection)
 
 
+
+## Workflows
+- constants
+- config_entity
+- artifact_entity
+- components
+- pipeline
+- app.py
+
+
 ### step 1: create conda environment
 ```
 conda create -p venv python==3.8 -y
