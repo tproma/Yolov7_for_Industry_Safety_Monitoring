@@ -7,7 +7,6 @@
 - [Kaggle Data Link](https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection)
 
 
-
 ## Workflows
 - constants
 - config_entity
@@ -16,6 +15,10 @@
 - pipeline
 - app.py
 
+## AWS configurations
+```
+aws configure
+```
 
 ### step 1: create conda environment
 ```
