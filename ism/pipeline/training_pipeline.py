@@ -40,4 +40,9 @@ class TrainPipeline:
             raise ismException(e, sys)
         
 
-    
+    def run_pipeline(self)-> None:
+        try:
+            data_ingestion_artifact = self.start_data_ingestion()
+
+        except Exception as e:
+            raise ismException(e, sys)
